@@ -18,6 +18,8 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de Kirchhoff en c
 
 # Marco teórico
 
+![image](https://user-images.githubusercontent.com/105715717/171219657-4ba12897-b9fa-4ace-9294-8afde8b75a8c.png)
+
 # Explicación del problema
 2.5.1. Implemente el circuito que se presenta en la figura 2.1.
 
