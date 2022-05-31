@@ -23,5 +23,17 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de Kirchhoff en c
 
 ![image](https://user-images.githubusercontent.com/105715717/171218466-3592e76f-4c0a-44fb-ad22-391a1c09fef8.png)
 
+![image](https://user-images.githubusercontent.com/105715717/171218703-126e83ac-96e0-4805-a639-e11ffb9e0a86.png)
+
+* Circuito
+![image](https://user-images.githubusercontent.com/105715717/171218782-98e325f7-bbf1-4b23-859e-d87e641e84d2.png)
+
+* Resolución del problema
+
+![image](https://user-images.githubusercontent.com/105715717/171218895-386c6685-40d1-406f-aa35-6cef96ddf80c.png)
+
+![image](https://user-images.githubusercontent.com/105715717/171218918-c5d45c5a-01bf-4d14-9b15-88dee2f3965f.png)
+
+# Respuestas a interrogantes
 
 
