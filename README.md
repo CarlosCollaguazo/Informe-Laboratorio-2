@@ -45,3 +45,8 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de Kirchhoff en c
 
 * Realizado el circuito se consiguió realizar el análisis de malla mediante la Ley de Voltajes de Kirchhoff obteniendo así la corriente en las diferentes mallas y resistencias que se presentan en el circuito. 
 * El circuito presenta dos fuentes de voltaje por lo que se pudo calcular una mayor corriente en cada una de las mallas que se obtienen en el circuito.
+
+# Bibliograía
+* ComoFunciona. (Martes de Mayo de 2022). ComoFunciona. Obtenido de ComoFunciona: https://como-funciona.co/un-amperimetro/
+* GSL Industrias. (31 de MAYO de 2022). GSL Industrias. Obtenido de GSL Industrias: https://industriasgsl.com/blogs/automatizacion/que-es-un-amperimetro-y-para-que-sirve
+* Maquinas y Herramientas. (31 de Mayo de 2022). Maquinas y Herramientas. Obtenido de Maquinas y Herramientas: https://www.demaquinasyherramientas.com/herramientas-de-medicion/introduccion-al-voltimetro
