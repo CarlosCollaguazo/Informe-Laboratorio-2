@@ -43,5 +43,5 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de Kirchhoff en c
 
 # Concluciones 
 
-* Realizado el circuito se consiguió realizar el análisis de malla mediante la Ley de Voltajes de Kirchhoff obteniendo así la corriente en las diferentes mallas. 
-* Al tener dos fuentes de voltaje se puede analizar que se obtendrá corrientes de mayor intensidad. 
+* Realizado el circuito se consiguió realizar el análisis de malla mediante la Ley de Voltajes de Kirchhoff obteniendo así la corriente en las diferentes mallas y resistencias que se presentan en el circuito. 
+* El circuito presenta dos fuentes de voltaje por lo que se pudo calcular una mayor corriente en cada una de las mallas que se obtienen en el circuito.
