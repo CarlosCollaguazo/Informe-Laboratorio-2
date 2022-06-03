@@ -41,6 +41,10 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de Kirchhoff en c
 
 # Respuestas a interrogantes
 
+![image](https://user-images.githubusercontent.com/105715717/171910831-5bb8a96a-7d35-4bd3-a194-eccac57b99b1.png)
+
+![image](https://user-images.githubusercontent.com/105715717/171910769-55774bf0-7417-4328-98e2-b8dac8e9df74.png)
+
 # Concluciones 
 
 * Realizado el circuito se consiguió realizar el análisis de malla mediante la Ley de Voltajes de Kirchhoff obteniendo así la corriente en las diferentes mallas y resistencias que se presentan en el circuito. 
